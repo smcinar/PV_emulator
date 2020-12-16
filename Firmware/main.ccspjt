@@ -1,0 +1,44 @@
+[PROJECT]
+Target=D:\Projeler\BAP projeleri\PV_simulator\Interrupt_deneme\main.hex
+Development_Mode=
+Processor_Text=PIC16F877
+ToolSuite=CCS
+Processor=0x877F
+[D:\Projeler\BAP projeleri\PV_simulator\Interrupt_deneme\main]
+Type=4
+Path=
+FileList=
+BuildTool=
+OptionString=
+AdditionalOptionString=
+[mru-list]
+1=D:\Projeler\BAP projeleri\PV_simulator\Interrupt_deneme\main.c
+[Windows]
+0=0000 %S 0 0 796 451 3 0
+[Units]
+Link=0
+Count=1
+1=D:\Projeler\BAP projeleri\PV_simulator\Interrupt_deneme\main
+[Opened Files]
+1=main.c
+2=
+3=C:\Users\suleyman\Desktop\Interrupt_deneme\flcd.c
+4=C:\Users\suleyman\Desktop\Interrupt_deneme\init.h
+5=C:\Users\suleyman\Desktop\Interrupt_deneme\main.h
+6=
+7=..\Firmware\main.c
+8=
+9=main.h
+10=
+11=C:\Program Files (x86)\PICC\drivers\stdlib.h
+12=C:\Program Files (x86)\PICC\drivers\stddef.h
+13=C:\Program Files (x86)\PICC\drivers\string.h
+14=C:\Program Files (x86)\PICC\drivers\ctype.h
+15=
+
+[ProjectLog]
+Days=1
+D1=16-12-2020
+D1_L=2
+D1_L1=[72138]Project Opened.
+D1_L2=[76885]Project Closed.
